@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CurrencyConversion
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# currency-converter
+Currency Converter - Example App using Angular 5 with ngrx implementation
+>>>>>>> 215b9d13364e8ad865cdfba1d996be6489e91180
